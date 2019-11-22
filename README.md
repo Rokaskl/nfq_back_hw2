@@ -1,1 +1,3 @@
-# nfq_back_hw2
+# NFQ akademijos back-end PHP OP namų darbai.
+
+Autorius: Rokas Kliučinskas
